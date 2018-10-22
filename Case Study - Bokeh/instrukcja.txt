@@ -1,0 +1,10 @@
+Instalujemy modu³y pandas,bokeh:
+pip install pandas
+pip install bokeh
+
+W konsoli w folderze w którym mamy app.py oraz gapminder.csv:
+bokeh server app.py
+konsola zwraca adres localhost:____/app
+wchodzimy w przegl¹darce i ogl¹damy
+
+Mi³ego paczenia :)
